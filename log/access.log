@@ -1,0 +1,178 @@
+Fri Jun 01 2018 23:36:45 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "97cc9e5f-8610-4d2b-80b0-65a7e20a960e",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 1
+}
+Fri Jun 01 2018 23:38:01 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "7bde6563-7eff-425f-90e8-f88993517718",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 2
+}
+Fri Jun 01 2018 23:38:33 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "b830a652-239e-4bdc-aa5c-f127481f241b",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 2
+}
+Fri Jun 01 2018 23:39:11 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "d522aa84-6832-4b4f-b5e6-5ea932508350",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 3
+}
+Fri Jun 01 2018 23:48:18 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "25b16d24-e340-4b92-b347-5ea920bd3ae6",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 3
+}
+[ Fri Jun 01 2018 23:51:01 GMT+0530 (IST) ] [ INFO ]HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "8feaca01-0d05-498d-895c-9085c1ec301f",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 2
+}
+[Fri Jun 01 2018 23:57:10 GMT+0530 (IST)] [INFO] HTTP GET /
+	{"res":{"statusCode":200},"req":{"url":"/","headers":{"cache-control":"no-cache","postman-token":"f81c4f41-e109-47be-a979-643f01f0245e","user-agent":"PostmanRuntime/6.4.1","accept":"*/*","host":"localhost:3001","accept-encoding":"gzip, deflate","connection":"keep-alive"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"responseTime":2}
+Fri Jun 01 2018 23:57:41 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "28fc14a4-eee6-4ca6-9213-36118ac69f00",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 2
+}
+Sat Jun 02 2018 09:12:22 GMT+0530 (IST) INFO HTTP GET /{
+	"res": {
+		"statusCode": 200
+	},
+	"req": {
+		"url": "/",
+		"headers": {
+			"cache-control": "no-cache",
+			"postman-token": "8d50e5c2-0f7e-4622-bc72-9228a8c03b5f",
+			"user-agent": "PostmanRuntime/6.4.1",
+			"accept": "*/*",
+			"host": "localhost:3001",
+			"accept-encoding": "gzip, deflate",
+			"connection": "keep-alive"
+		},
+		"method": "GET",
+		"httpVersion": "1.1",
+		"originalUrl": "/",
+		"query": {}
+	},
+	"responseTime": 2
+}
